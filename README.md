@@ -1,5 +1,6 @@
 <h1 align=center> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, @DebjeetBanerjee here </h1>
 
+<h3>Reach me</h3>
 
 [<img align="left" alt="DebjeetBanerjee | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="debjeetbanerjee48 | Gmail" width="22px" src="./gmail.svg" />][gmail]
@@ -13,8 +14,22 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 - 📫 You can reach me via my email
 - ⚡ Fun fact: I use Arch BTW.
 
-<H2>TECH STACK</H2>
-<img src="https://img.shields.io/badge/-Python-26004d?logo=python&logoColor=e7e7ec&style=for-the-badge"> <img src="https://img.shields.io/badge/-GO-26004d?logo=go&logoColor=e7e7ec&style=for-the-badge"> <img src="https://img.shields.io/badge/--26004d?logo=c&logoColor=e7e7ec&style=for-the-badge"> 
+### Tech Stack
+
+#### Languages:
+
+![Javascript](https://img.shields.io/badge/-JavaScript-26004d?style=for-the-badge&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-TypeScript-26004d?style=for-the-badge&logo=typescript&logoColor=white)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-26004d?style=for-the-badge&logo=c-sharp&logoColor=white)
+![GO](https://img.shields.io/badge/-GO-26004d?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/-C-26004d?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-26004d?style=for-the-badge&logo=python&logoColor=white)
+
+
+#### DevOps:
+
+![Git](https://img.shields.io/badge/-Git-26004d?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-26004d?style=for-the-badge&logo=github&logoColor=white)
 
 [linkedin]: [https://www.linkedin.com/in/DebjeetBanerjee/](https://www.linkedin.com/in/debjeet-banerjee-3b787b227/)
 [medium]: https://medium.com/@debjeetbanerjee48
