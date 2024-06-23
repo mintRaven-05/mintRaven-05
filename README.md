@@ -1,8 +1,9 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, @DebjeetBanerjee here
+<h1 align=center> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, @DebjeetBanerjee here </h1>
 
-[<img align="left" alt="DebjeetBanerjee | LinkedIn" width="22px" src="./linkedin" />][linkedin]
+
+[<img align="left" alt="DebjeetBanerjee | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="debjeetbanerjee48 | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="DebjeetbanerjeeMedium" width="22px" src="./medium.svg" />][medium]
+[<img align="left" alt="Debjeetbanerjee | Medium" width="22px" src="./medium.svg" />][medium]
 
 <br>
 <br>
@@ -14,3 +15,7 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 
 <H2>TECH STACK</H2>
 <img src="https://img.shields.io/badge/-Python-26004d?logo=python&logoColor=e7e7ec&style=for-the-badge"> <img src="https://img.shields.io/badge/-GO-26004d?logo=go&logoColor=e7e7ec&style=for-the-badge"> <img src="https://img.shields.io/badge/--26004d?logo=c&logoColor=e7e7ec&style=for-the-badge"> 
+
+[linkedin]: [https://www.linkedin.com/in/DebjeetBanerjee/](https://www.linkedin.com/in/debjeet-banerjee-3b787b227/)
+[medium]: https://medium.com/@debjeetbanerjee48
+[gmail]:mailto:debjeetbanerjee48@gmail.com
