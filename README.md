@@ -32,6 +32,6 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 ![Git](https://img.shields.io/badge/-Git-26004d?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-26004d?style=for-the-badge&logo=github&logoColor=white)
 
-[linkedin]: https://www.linkedin.com/in/debjeet-banerjee-3b787b227/
+[linkedin]: https://www.linkedin.com/in/~debjeetbanerjee/
 [medium]: https://medium.com/@debjeetbanerjee48
 [gmail]:mailto:debjeetbanerjee48@gmail.com
