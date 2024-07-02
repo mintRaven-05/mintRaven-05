@@ -22,7 +22,7 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=mintRaven-05&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9%22%20alt=%22streak%20stats&hide_border=true)
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./code.gif" height="20"/>  My Tech Stack  <img src="./code.gif" height="20"/></h2>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="./code.gif" height="20"/>  My Tech Stack  <img src="./code.gif" height="20"/></h2>
     
 #### Languages: 
 ![C](https://img.shields.io/badge/-C-26004d?style=for-the-badge&logo=c&logoColor=white)
@@ -48,17 +48,19 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 ![Flutter](https://img.shields.io/badge/-Flutter-26004d?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/-React-26004d?style=for-the-badge&logo=react&logoColor=white)
 
-#### DevOps: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Embedded Systems:
-
-![Git](https://img.shields.io/badge/-Git-26004d?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-26004d?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-26004d?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-26004d?style=for-the-badge&logo=arduino&logoColor=white)
-
 #### Containerization & Cloud:
 ![Docker](https://img.shields.io/badge/-Docker-26004d?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-26004d?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-26004d.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-26004d?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+#### Embedded Systems:
+![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-26004d?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-26004d?style=for-the-badge&logo=arduino&logoColor=white)
+
+#### DevOps:
+![Git](https://img.shields.io/badge/-Git-26004d?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-26004d?style=for-the-badge&logo=github&logoColor=white)
 
 <h1></h1>
 
