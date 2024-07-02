@@ -46,7 +46,6 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 ![]()
 ![]()
 ![]()
-![]()
 ![mintRaven-05's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintRaven-05&theme=gotham&hide_border=true)
 
 
