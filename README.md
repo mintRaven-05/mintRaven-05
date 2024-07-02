@@ -10,7 +10,7 @@
 <br>
 
 I've always been a person who if I didn't know how to make something 🔎 I'd find out how to do it, so programming has been a perfect fit for me.
-🎓 I am currently pursuing my bachelor's degree on Computer Science Engineering and will have my degree by 2027. I am currently open to any project collaborations, so feel free to reach me anytime.
+🎓 I am currently pursuing my bachelor's degree in Computer Science Engineering and will have my degree by 2027. I am currently open to any project collaborations, so feel free to reach me anytime.
 - 📫 You can reach me via my email
 - ⚡ Fun fact: I use Arch BTW.
 
