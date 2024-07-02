@@ -37,9 +37,12 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 <h1 align=center></h1>
 
 [![mintRaven-05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mintRaven-05&theme=github-compact&hide_border=true&grid=false&custom_title=My%20contribution%20graph)](https://github.com/mintRaven-05/github-readme-activity-graph)
+<p align=center>
+  
 ![mintRaven-05's Stats](https://github-readme-stats.vercel.app/api?username=mintRaven-05&theme=gotham&show_icons=true&hide_border=true&count_private=true&custom_title=My%20github%20stats)
 ![mintRaven-05's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintRaven-05&theme=gotham&hide_border=true)
 
+</p>
 
 [linkedin]: https://www.linkedin.com/in/~debjeetbanerjee/
 [medium]: https://medium.com/@debjeetbanerjee48
