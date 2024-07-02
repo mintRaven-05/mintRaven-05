@@ -34,6 +34,10 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 ![Git](https://img.shields.io/badge/-Git-26004d?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-26004d?style=for-the-badge&logo=github&logoColor=white)
 
+<h1 align=center></h1>
+
+[![mintRaven-05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mintRaven-05&theme=github-compact&hide_border=true&grid=false&custom_title=My%20contribution%20graph)](https://github.com/mintRaven-05/github-readme-activity-graph)
+
 [linkedin]: https://www.linkedin.com/in/~debjeetbanerjee/
 [medium]: https://medium.com/@debjeetbanerjee48
 [gmail]:mailto:debjeetbanerjee48@gmail.com
