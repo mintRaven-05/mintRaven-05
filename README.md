@@ -9,7 +9,7 @@
 <br>
 <br>
 
-I've always been a person that if I didn't know how to make something 🔎 I'd find out how to do it, so programming has been a perfect fit for me.
+I've always been a person who if I didn't know how to make something 🔎 I'd find out how to do it, so programming has been a perfect fit for me.
 🎓 I am currently pursuing my bachelor's degree on Computer Science Engineering and will have my degree by 2027. I am currently open to any project collaborations, so feel free to reach me anytime.
 - 📫 You can reach me via my email
 - ⚡ Fun fact: I use Arch BTW.
@@ -25,7 +25,9 @@ I've always been a person that if I didn't know how to make something 🔎 I'd f
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-26004d?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![GO](https://img.shields.io/badge/-GO-26004d?style=for-the-badge&logo=go&logoColor=white)
 
-
+#### Containerization:
+![Git](https://img.shields.io/badge/-Docker-26004d?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Kubernetes-26004d?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 #### DevOps:
 
