@@ -14,6 +14,14 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 - 📫 You can reach me via my email
 - ⚡ Fun fact: I use Arch BTW.
 
+<h1 align=center></h1>
+
+[![mintRaven-05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mintRaven-05&theme=github-compact&hide_border=true&grid=false&custom_title=My%20contribution%20graph)](https://github.com/mintRaven-05/github-readme-activity-graph)
+![stats](https://github-readme-stats.vercel.app/api?username=mintRaven-05&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=mintRaven-05&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=mintRaven-05&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9%22%20alt=%22streak%20stats&hide_border=true)
+
 <h2 align="center"><img src="./code.gif" height="20"/>  My Tech Stack  <img src="./code.gif" height="20"/></h2>
     
 #### Languages: 
@@ -52,12 +60,6 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 ![AWS](https://img.shields.io/badge/AWS-26004d.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-26004d?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<h1 align=center></h1>
-
-[![mintRaven-05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mintRaven-05&theme=github-compact&hide_border=true&grid=false&custom_title=My%20contribution%20graph)](https://github.com/mintRaven-05/github-readme-activity-graph)
-![stats](https://github-readme-stats.vercel.app/api?username=mintRaven-05&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true)
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=mintRaven-05&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true)
-![streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=mintRaven-05&count_private=true&border_radius=20&ring=00bfbf&stroke=c9d1d9&background=0d1117&fire=00bfbf&currStreakNum=00bfbf&sideNums=00bfbf&sideNums=00bfbf&datesside=00bfbf&Labelscurr=00bfbf&currStreakLabel=00bfbf&sideLabels=00bfbf&dates=c9d1d9&border=c9d1d9%22%20alt=%22streak%20stats&hide_border=true)
 
 [linkedin]: https://www.linkedin.com/in/~debjeetbanerjee/
 [medium]: https://medium.com/@debjeetbanerjee48
