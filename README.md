@@ -39,8 +39,8 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 [![mintRaven-05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mintRaven-05&theme=github-compact&hide_border=true&grid=false&custom_title=My%20contribution%20graph)](https://github.com/mintRaven-05/github-readme-activity-graph)
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mintRaven-05&theme=gotham&show_icons=true&hide_border=true&count_private=true&custom_title=My%20github%20stats" width="450" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mintRaven-05&theme=gotham&hide_border=true" width="450" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=mintRaven-05&theme=gotham&show_icons=true&hide_border=true&count_private=true&custom_title=My%20github%20stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mintRaven-05&theme=gotham&hide_border=true" width="400" /> 
 </p>
 
 
