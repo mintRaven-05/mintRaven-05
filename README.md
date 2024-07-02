@@ -14,13 +14,14 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 - 📫 You can reach me via my email
 - ⚡ Fun fact: I use Arch BTW.
 
-### Tech Stack
+<h2 align="center"><img src="./code.gif" height="20"/>  My Tech Stack  <img src="./code.gif" height="20"/></h2>
 
 #### Languages:
 
 ![C](https://img.shields.io/badge/-C-26004d?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-26004d?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-26004d?style=for-the-badge&logo=javascript&logoColor=white)
+
 ![Typescript](https://img.shields.io/badge/-TypeScript-26004d?style=for-the-badge&logo=typescript&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-26004d?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![GO](https://img.shields.io/badge/-GO-26004d?style=for-the-badge&logo=go&logoColor=white)
