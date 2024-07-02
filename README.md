@@ -48,7 +48,7 @@ I've always been a person who if I didn't know how to make something 🔎 I'd fi
 ![Flutter](https://img.shields.io/badge/-Flutter-26004d?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/-React-26004d?style=for-the-badge&logo=react&logoColor=white)
 
-#### DevOps: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Embedded Systems:
+#### DevOps: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Embedded Systems:
 
 ![Git](https://img.shields.io/badge/-Git-26004d?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-26004d?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-26004d?style=for-the-badge&logo=raspberrypi&logoColor=white)
