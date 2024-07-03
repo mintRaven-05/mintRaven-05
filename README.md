@@ -1,4 +1,4 @@
-![header](./header_github.gif)
+![header](./cover.gif)
 
 <h1 align=center> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, @DebjeetBanerjee here aka mintRaven </h1>
 
