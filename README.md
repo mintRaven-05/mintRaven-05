@@ -11,12 +11,10 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
         <b>
-    I've always been a person who if I didn't know how to make something, I'd find out how, so programming has been a perfect fit.
+   <p align="left"><strong><samp>「</samp></strong></p> I've always been a person who if I didn't know how to make something, I'd find out how, so programming has been a perfect fit.
 🎓 I am currently pursuing my bachelor's degree in Computer Science Engineering and will have my degree by 2027. I am open to any project collaborations, so feel free to reach me anytime.
       </b>
     </samp>
