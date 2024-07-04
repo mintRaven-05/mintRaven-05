@@ -11,15 +11,15 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  <p align="left"><strong><samp>「</samp></strong></p> 
   <p align="center">
     <samp>
         <b>
-   <p align="left"><strong><samp>「</samp></strong></p> 
-          I've always been a person who if I didn't know how to make something, I'd find out how, so programming has been a perfect fit.
+   I've always been a person who if I didn't know how to make something, I'd find out how, so programming has been a perfect fit.
 🎓 I am currently pursuing my bachelor's degree in Computer Science Engineering and will have my degree by 2027. I am open to any project collaborations, so feel free to reach me anytime.
       </b>
-      <br>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&repeat=false&lines=I+use+'Arch'+BTW.">
+       <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&repeat=false&lines=I+use+'Arch'+BTW.">
     </samp>
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
