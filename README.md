@@ -46,6 +46,7 @@
 ![C](https://img.shields.io/badge/-C-26004d?style=for-the-badge&logo=c&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-26004d?style=for-the-badge&logo=c%2B%2B&&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-26004d?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-26004d?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-26004d?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-26004d?style=for-the-badge&logo=typescript&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-26004d?style=for-the-badge&logo=csharp&logoColor=white)
@@ -66,15 +67,16 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-26004d?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/-React-26004d?style=for-the-badge&logo=react&logoColor=white)
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+#### Embedded Systems:
+![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-26004d?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-26004d?style=for-the-badge&logo=arduino&logoColor=white)
+![Espressif](https://img.shields.io/badge/-Espressif-26004d?style=for-the-badge&logo=espressif&logoColor=white)
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 #### Containerization & Cloud:
 ![Docker](https://img.shields.io/badge/-Docker-26004d?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-26004d?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-26004d.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-26004d?style=for-the-badge&logo=microsoftazure&logoColor=white)
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-#### Embedded Systems:
-![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-26004d?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-26004d?style=for-the-badge&logo=arduino&logoColor=white)
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 #### DevOps:
 ![Git](https://img.shields.io/badge/-Git-26004d?style=for-the-badge&logo=git&logoColor=white)
