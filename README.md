@@ -5,12 +5,10 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p align = center>
   <a href = "https://www.linkedin.com/in/~debjeetbanerjee/">
-  <img align = center alt="DebjeetBanerjee | LinkedIn" width="22px" src="./linkedin.svg" />
-  </a>
+  <img align = center alt="DebjeetBanerjee | LinkedIn" width="22px" src="./linkedin.svg" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href = "mailto:debjeetbanerjee48@gmail.com">
-  <img align = center alt="debjeetbanerjee48 | Gmail" width="22px" src="./gmail.svg" />
-  </a>
+  <img align = center alt="debjeetbanerjee48 | Gmail" width="22px" src="./gmail.svg" /></a> 
   &nbsp;&nbsp;&nbsp;
   <a href = "https://medium.com/@debjeetbanerjee48">
   <img align = center alt="Debjeetbanerjee | Medium" width="22px" src="./medium.svg" />
