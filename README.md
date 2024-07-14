@@ -23,7 +23,7 @@
     <samp>
         <b>
    I've always been a person who if I didn't know how to make something,<br> I'd find out how, so programming has been a perfect fit.<br>
-🎓 I am currently pursuing my bachelor's degree in Computer Science Engineering and will have my degree by 2027.<br> I am open to any project collaborations, so feel free to reach me anytime.
+🎓 I am pursuing my bachelor's degree in Computer Science Engineering<br> Currently open to any project collaborations, so feel free to reach me anytime.
       </b>
        <br>
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&repeat=false&lines=I+use+'Arch'+BTW.">
