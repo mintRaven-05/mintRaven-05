@@ -48,6 +48,7 @@
 ![Python](https://img.shields.io/badge/-Python-26004d?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-26004d?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-26004d?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-26004d?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-TypeScript-26004d?style=for-the-badge&logo=typescript&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%20Sharp-26004d?style=for-the-badge&logo=csharp&logoColor=white)
 ![GO](https://img.shields.io/badge/-GO-26004d?style=for-the-badge&logo=go&logoColor=white)
@@ -66,6 +67,7 @@
 ![dotnet](https://img.shields.io/badge/-.NET-26004d?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-26004d?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/-React-26004d?style=for-the-badge&logo=react&logoColor=white)
+![nextjs](https://img.shields.io/badge/-Next.js-26004d?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 #### Embedded Systems:
 ![Raspberrypi](https://img.shields.io/badge/-RaspberryPi-26004d?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -80,7 +82,8 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 #### DevOps:
 ![Git](https://img.shields.io/badge/-Git-26004d?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-26004d?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GiHub-26004d?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-26004d?style=for-the-badge&logo=gitlab&logoColor=white)
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h1></h1>
 
