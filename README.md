@@ -7,7 +7,7 @@
   <a href = "https://www.linkedin.com/in/~debjeetbanerjee/">
   <img align = center alt="DebjeetBanerjee | LinkedIn" width="22px" src="./linkedin.svg" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href = "mailto:debjeetbanerjee48@gmail.com">
+  <a href = "mailto:debjeet.banerjee2023@uem.edu.in">
   <img align = center alt="debjeetbanerjee48 | Gmail" width="22px" src="./gmail.svg" /></a> 
   &nbsp;&nbsp;&nbsp;
   <a href = "https://medium.com/@debjeetbanerjee48">
