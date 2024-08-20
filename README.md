@@ -82,7 +82,7 @@
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 #### DevOps:
 ![Git](https://img.shields.io/badge/-Git-26004d?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GiHub-26004d?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-26004d?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-26004d?style=for-the-badge&logo=gitlab&logoColor=white)
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h1></h1>
