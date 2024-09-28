@@ -34,6 +34,10 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h1 align=center></h1>
+<div align="center">
+  
+![GitHub-trophies](https://github-trophies.vercel.app/?username=mintRaven-05&title=MultiLanguage,LongTimeUser,NewUser,Organizations,Commits,PullRequest&theme=discord&no-frame=true&no-bg=true&margin-w=7)
+</div>
 
 [![mintRaven-05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mintRaven-05&theme=github-compact&hide_border=true&grid=false&custom_title=Contribution%20graph)](https://github.com/mintRaven-05/github-readme-activity-graph)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![stats](https://github-readme-stats.vercel.app/api?username=mintRaven-05&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true)
