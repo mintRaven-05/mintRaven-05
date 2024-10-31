@@ -1,8 +1,4 @@
 <p align="center""><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header"></p>
-<div align="center">
-
-  ![header](https://github-widgetbox.vercel.app/api/profile?username=mintRaven-05&data=followers,repositories,stars,commits&theme=nautilus)
-</div>  
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p align = center>
   <a href = "https://www.linkedin.com/in/~debjeetbanerjee/">
