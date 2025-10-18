@@ -1,43 +1,6 @@
 <p align="center""><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header"></p>
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<p align = center>
-  <a href = "https://www.linkedin.com/in/~debjeetbanerjee/">
-  <img align = center alt="DebjeetBanerjee | LinkedIn" width="22px" src="./linkedin.svg" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href = "mailto:debjeet.banerjee2023@uem.edu.in">
-  <img align = center alt="debjeetbanerjee48 | Gmail" width="22px" src="./gmail.svg" /></a> 
-  &nbsp;&nbsp;&nbsp;
-  <a href = "https://medium.com/@debjeetbanerjee48">
-  <img align = center alt="Debjeetbanerjee | Medium" width="22px" src="./medium.svg" />
-  </a>
-</p>
-  <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<br>
-<br>
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-<p align="left"><strong><samp>「</samp></strong></p> 
-  <p align="center">
-    <samp>
-        <b>
-   I've always been a person who if I didn't know how to make something,<br> I'd find out how, so programming has been a perfect fit.<br>
-🎓 I am pursuing my bachelor's degree in Computer Science Engineering<br> Currently open to any project collaborations, so feel free to reach me anytime.
-      </b>
-       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&repeat=false&lines=I+use+'Arch'+BTW.">
-    </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-<br>
-
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
-## 
 <div align="center">
   
-![GitHub-trophies](https://github-trophies.vercel.app/?username=mintRaven-05&title=MultiLanguage,LongTimeUser,Repositories,Organizations,Commits,PullRequest&theme=discord&no-frame=true&no-bg=true&margin-w=7)
-</div>
-
-<div align="center">
-   
 ![stats](https://github-readme-stats.vercel.app/api?username=mintRaven-05&count_private=true&show_icons=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&rank_icon=github&border_radius=20&hide_border=true)
 ![language](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mintRaven-05&hide=HTML&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=20&size_weight=0.5&count_weight=0.5&hide_border=true) 
 </div>
